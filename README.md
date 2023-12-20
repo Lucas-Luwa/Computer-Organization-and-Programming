@@ -1,2 +1,2 @@
-# CS2110
-CS 2110 (Computer Organization and Programming) Homeworks taught by Dr. Southern at Georgia Tech in Fall 2021.
+# Computer Organization and Programming
+Computer Organization and Programming (CS 2110) Homeworks taught by Dr. Southern at Georgia Tech in Fall 2021.
